@@ -13,7 +13,7 @@
 
 
 
-[:dragon:开始阅读](#ambeissi的博客)   [:star2:Gitee](http://coderleixiaoshuai.gitee.io/java-eight-part/#/)  
+[:dragon:开始阅读](#ambeissi的博客)   [:star2:Gitee](https://gitee.com/telei/lucien_xxx)
 
-![](doc/_media/bg.png)
+![](docs/_media/bg.png)
 
